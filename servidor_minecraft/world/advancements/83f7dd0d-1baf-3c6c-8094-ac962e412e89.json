@@ -3303,6 +3303,7 @@
       "minecraft:creeper": "2025-03-16 03:55:41 +0000",
       "minecraft:witch": "2025-03-16 03:45:26 +0000",
       "minecraft:wither_skeleton": "2025-03-16 23:04:26 +0000",
+      "minecraft:cave_spider": "2025-03-27 01:14:29 +0000",
       "minecraft:piglin": "2025-03-16 23:01:49 +0000",
       "minecraft:enderman": "2025-03-16 02:18:28 +0000",
       "minecraft:vex": "2025-03-16 23:21:49 +0000",
@@ -8785,6 +8786,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-03-27 00:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-27 01:18:42 +0000"
     },
     "done": true
   },

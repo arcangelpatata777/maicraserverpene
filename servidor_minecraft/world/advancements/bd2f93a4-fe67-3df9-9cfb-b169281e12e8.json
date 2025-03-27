@@ -78,6 +78,7 @@
       "minecraft:jungle": "2025-03-16 02:41:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-16 01:54:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-16 03:06:40 +0000",
+      "minecraft:savanna": "2025-03-27 01:09:06 +0000",
       "minecraft:plains": "2025-03-16 02:18:20 +0000"
     },
     "done": false
@@ -93,8 +94,10 @@
       "woodland": "2025-03-16 01:50:39 +0000",
       "shrubland": "2025-03-16 00:44:14 +0000",
       "rocky_shrubland": "2025-03-16 01:43:51 +0000",
+      "scrubland": "2025-03-27 01:10:16 +0000",
       "mystic_grove": "2025-03-16 03:06:27 +0000",
       "old_growth_woodland": "2025-03-16 02:21:04 +0000",
+      "mediterranean_forest": "2025-03-27 01:14:49 +0000",
       "redwood_forest": "2025-03-16 00:55:36 +0000",
       "dune_beach": "2025-03-16 00:44:07 +0000",
       "lavender_field": "2025-03-16 00:53:15 +0000",
@@ -5418,9 +5421,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-27 01:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-03-27 00:59:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-27 01:23:23 +0000"
     },
     "done": true
   },
@@ -5430,9 +5445,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-03-27 01:09:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-03-27 01:23:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-03-27 00:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-27 01:09:23 +0000"
     },
     "done": true
   },
@@ -5451,6 +5484,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-03-27 00:39:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-03-27 01:09:23 +0000"
     },
     "done": true
   },
