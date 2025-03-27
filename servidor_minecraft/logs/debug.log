@@ -13918,3 +13918,253 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [27Mar2025 02:48:50.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
 [27Mar2025 02:48:51.174] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
 [27Mar2025 02:48:52.925] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[27Mar2025 02:50:11.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:50:12.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 02:51:08.557] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[27Mar2025 02:51:17.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:51:35.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=49, z=203} BlockPos{x=1030, y=48, z=203}
+[27Mar2025 02:51:35.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=49, z=203} BlockPos{x=1030, y=48, z=203}
+[27Mar2025 02:51:43.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:51:43.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:51:56.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:52:38.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:52:44.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:52:46.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:52:49.821] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[27Mar2025 02:53:28.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:28.495] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[27Mar2025 02:53:28.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:28.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:28.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:28.833] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:29.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:29.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:29.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:29.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:29.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:29.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:29.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.172] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.327] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:53:30.413] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.415] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:53:30.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.779] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:30.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:53:31.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:53:31.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:31.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:53:31.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:32.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.554] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:33.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:53:35.985] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:36.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:36.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:36.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:36.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:36.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:37.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:37.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:38.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:38.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:41.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:41.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:41.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:47.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:47.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[27Mar2025 02:53:50.282] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:50.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:51.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:51.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:51.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:51.736] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:51.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:51.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:52.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:52.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:54.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:54.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.126] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.729] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:55.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.131] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.579] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:56.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:57.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:57.225] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:57.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:57.774] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:57.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:57.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:57.974] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:53:59.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:00.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:00.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:00.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:00.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:00.985] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:01.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:01.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:01.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:02.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:03.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:03.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:03.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:03.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:03.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:54:03.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:03.832] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:04.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:04.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:04.628] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:05.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:08.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:08.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:08.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:08.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:10.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:12.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:13.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:16.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:31.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:31.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:32.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[27Mar2025 02:54:32.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:32.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:32.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:36.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:36.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:37.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:38.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:55.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:56.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[27Mar2025 02:54:56.828] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:54:56.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:04.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:05.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:05.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:05.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:06.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:06.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:06.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:06.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:07.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata was slain by Enderman
+[27Mar2025 02:55:07.070] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[27Mar2025 02:55:07.087] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[27Mar2025 02:55:09.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:09.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:09.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:09.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:12.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:55:12.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 02:55:15.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:15.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:18.425] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:18.574] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:18.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:18.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:18.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:18.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata was slain by Enderman
+[27Mar2025 02:55:21.189] [Server thread/DEBUG] [tombstone/]: A new grave of the player Arcangel_Patata was created at position [x:-2102, y:64, z:2205, dim:minecraft:overworld]
+[27Mar2025 02:55:22.694] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
+[27Mar2025 02:55:23.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:24.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:24.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:24.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:29.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:49.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:49.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:49.430] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:53.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:55.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:55:55.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 is bleeding. tragasables-69 was slain by Netherite Monstrosity
+[27Mar2025 02:55:55.734] [Server thread/WARN] [tombstone/]: The death event of the player tragasables-69 was canceled by another mod
+[27Mar2025 02:55:55.743] [Server thread/INFO] [tombstone/]: The player tragasables-69 has successfully been saved
+[27Mar2025 02:56:02.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 was slain by Netherite Monstrosity
+[27Mar2025 02:56:02.093] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tragasables-69 with unique ID travelersbackpack.magma_cube_27.03.2025-02.56.02.dat
+[27Mar2025 02:56:02.093] [Server thread/DEBUG] [tombstone/]: A new grave of the player tragasables-69 was created at position [x:1077, y:45, z:173, dim:minecraft:the_nether]
+[27Mar2025 02:56:03.905] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[27Mar2025 02:56:07.467] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[27Mar2025 02:56:08.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:56:13.735] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[27Mar2025 02:56:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 has made the advancement [Stay dead]
+[27Mar2025 02:57:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata has reached the goal [To be or not to be]
+[27Mar2025 02:57:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata has reached the goal [I see clearly now]
+[27Mar2025 02:57:49.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:59:14.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[27Mar2025 02:59:32.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata was slain by Zombie
+[27Mar2025 02:59:32.319] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[27Mar2025 02:59:32.328] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[27Mar2025 02:59:46.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata was slain by Zombie
+[27Mar2025 02:59:46.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player Arcangel_Patata was created at position [x:-2122, y:66, z:2383, dim:minecraft:overworld]
+[27Mar2025 02:59:49.091] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
