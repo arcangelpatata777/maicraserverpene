@@ -170,7 +170,8 @@
       "pumpkin_pie": "2025-03-17 00:20:59 +0000",
       "rotten_flesh": "2025-03-16 00:47:13 +0000",
       "melon_slice": "2025-03-16 01:11:51 +0000",
-      "golden_carrot": "2025-03-16 21:56:40 +0000"
+      "golden_carrot": "2025-03-16 21:56:40 +0000",
+      "carrot": "2025-03-27 02:09:15 +0000"
     },
     "done": false
   },
@@ -6996,6 +6997,12 @@
   "handcrafted:recipes/misc/deepslate_corner_trim": {
     "criteria": {
       "has_deepslate_corner_trim": "2025-03-27 00:51:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-27 02:14:21 +0000"
     },
     "done": true
   },
