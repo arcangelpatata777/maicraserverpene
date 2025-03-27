@@ -8695,7 +8695,8 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "stalker": "2025-03-17 03:12:30 +0000",
-      "sculk_leech": "2025-03-17 03:11:49 +0000"
+      "sculk_leech": "2025-03-17 03:11:49 +0000",
+      "warden": "2025-03-27 02:28:04 +0000"
     },
     "done": false
   },
@@ -8717,6 +8718,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-27 02:36:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-03-27 00:05:59 +0000"
@@ -8726,6 +8733,12 @@
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2025-03-27 00:16:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-03-27 02:36:00 +0000"
     },
     "done": true
   },
@@ -8759,6 +8772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-27 02:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-27 00:26:48 +0000"
@@ -8777,6 +8796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-27 02:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-27 00:26:48 +0000"
@@ -8789,6 +8814,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-27 02:28:05 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-03-27 01:29:10 +0000"
@@ -8798,6 +8829,24 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-03-27 01:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-27 02:36:00 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-27 02:28:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-03-27 02:36:00 +0000"
     },
     "done": true
   },
