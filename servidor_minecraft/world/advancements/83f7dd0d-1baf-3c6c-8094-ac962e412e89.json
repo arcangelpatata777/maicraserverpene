@@ -8737,6 +8737,12 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-03-27 03:31:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-03-27 03:19:26 +0000"
@@ -8758,6 +8764,12 @@
   "aether:recipes/combat/zanite_gloves": {
     "criteria": {
       "has_zanite": "2025-03-27 03:26:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-27 03:31:29 +0000"
     },
     "done": true
   },
@@ -8803,6 +8815,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-03-27 03:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-03-27 00:16:03 +0000"
@@ -8815,6 +8833,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-03-27 03:31:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/zanite_block": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-27 03:26:46 +0000"
@@ -8824,6 +8848,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-03-27 00:26:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-27 03:31:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-27 03:31:29 +0000"
     },
     "done": true
   },
@@ -9007,6 +9043,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2025-03-27 03:31:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_pendant": {
     "criteria": {
       "has_zanite": "2025-03-27 03:26:46 +0000"
@@ -9016,6 +9058,12 @@
   "aether:recipes/tools/nature_staff": {
     "criteria": {
       "has_zanite": "2025-03-27 03:26:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-03-27 03:30:43 +0000"
     },
     "done": true
   },
@@ -9049,9 +9097,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2025-03-27 03:31:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-03-27 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-03-27 03:31:29 +0000"
     },
     "done": true
   },

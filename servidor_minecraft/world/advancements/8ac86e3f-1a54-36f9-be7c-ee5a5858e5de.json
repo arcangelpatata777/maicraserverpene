@@ -6005,6 +6005,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/pillar_from_pillar_top_stonecutting": {
+    "criteria": {
+      "has_pillar_top": "2025-03-27 03:30:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/swet_slime_block": {
     "criteria": {
       "has_swet_balls": "2025-03-27 03:18:28 +0000"
@@ -6317,6 +6323,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_stone_from_pillar_top_stonecutting": {
+    "criteria": {
+      "has_pillar_top": "2025-03-27 03:30:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-03-27 03:28:50 +0000"
@@ -6422,6 +6434,12 @@
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-03-27 02:48:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-27 03:30:34 +0000"
     },
     "done": true
   },
@@ -6620,6 +6638,12 @@
   "aether:recipes/building_blocks/skyroot_wood": {
     "criteria": {
       "has_log": "2025-03-27 03:25:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-27 03:31:35 +0000"
     },
     "done": true
   },
