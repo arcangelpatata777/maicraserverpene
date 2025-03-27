@@ -76,6 +76,7 @@
     "criteria": {
       "woodland": "2025-03-16 01:57:10 +0000",
       "shrubland": "2025-03-16 00:44:23 +0000",
+      "rocky_shrubland": "2025-03-27 01:51:15 +0000",
       "scrubland": "2025-03-16 22:57:19 +0000",
       "erupting_inferno": "2025-03-16 21:06:53 +0000",
       "old_growth_woodland": "2025-03-16 01:58:25 +0000",
@@ -83,6 +84,8 @@
       "withered_abyss": "2025-03-16 21:03:56 +0000",
       "mediterranean_forest": "2025-03-16 22:57:21 +0000",
       "visceral_heap": "2025-03-16 23:26:07 +0000",
+      "volcanic_plains": "2025-03-27 01:47:54 +0000",
+      "grassland": "2025-03-27 01:50:17 +0000",
       "glowing_grotto": "2025-03-17 00:14:15 +0000",
       "undergrowth": "2025-03-16 23:33:11 +0000",
       "rainforest": "2025-03-16 01:57:28 +0000"
@@ -103,6 +106,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-03-27 01:50:53 +0000",
       "minecraft:beach": "2025-03-16 01:58:52 +0000",
       "minecraft:lukewarm_ocean": "2025-03-16 01:56:25 +0000",
       "minecraft:river": "2025-03-16 01:55:11 +0000",
@@ -111,6 +115,7 @@
       "minecraft:ocean": "2025-03-16 00:49:45 +0000",
       "minecraft:jungle": "2025-03-16 02:13:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-16 02:10:49 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-27 01:51:01 +0000",
       "minecraft:deep_dark": "2025-03-16 00:44:54 +0000",
       "minecraft:savanna": "2025-03-16 01:53:35 +0000",
       "minecraft:plains": "2025-03-16 01:53:27 +0000"
@@ -6659,6 +6664,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-03-27 01:41:56 +0000",
       "wheat": "2025-03-16 03:51:40 +0000",
       "carrot": "2025-03-16 21:28:06 +0000"
     },
@@ -8780,6 +8786,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-03-27 01:29:10 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-03-27 01:54:23 +0000"
     },
     "done": true
   },
