@@ -8911,6 +8911,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-03-27 03:42:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2025-03-27 00:17:46 +0000"
@@ -8980,6 +8986,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-27 03:19:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-27 03:41:55 +0000"
     },
     "done": true
   },
@@ -9172,6 +9184,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-03-27 00:26:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-03-27 03:41:55 +0000"
     },
     "done": true
   },
