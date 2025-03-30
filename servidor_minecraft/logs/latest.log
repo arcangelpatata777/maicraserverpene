@@ -1362,3 +1362,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [30Mar2025 23:27:58.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.543s)! For help, type "help"
 [30Mar2025 23:27:58.502] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [30Mar2025 23:27:58.572] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[30Mar2025 23:37:11.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tragasables-69[/100.98.37.53:60774] logged in with entity id 902 at (-2118.5406518404598, 69.0, 2390.394424959585)
+[30Mar2025 23:37:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 joined the game
+[30Mar2025 23:37:12.059] [Server thread/INFO] [Jade/]: Syncing config to tragasables-69 (83f7dd0d-1baf-3c6c-8094-ac962e412e89)
+[30Mar2025 23:37:12.069] [Server thread/WARN] [mekanism.common.Mekanism/]: Failed to retrieve username for UUID cc7b4e84-4fa4-3ea7-be39-ffb367aed065, you might want to add it to the JSON cache
+[30Mar2025 23:37:20.089] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[30Mar2025 23:38:21.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[30Mar2025 23:40:55.549] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[30Mar2025 23:44:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 has made the advancement [Ghost! Ghost! Toast?]
+[30Mar2025 23:44:54.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 is bleeding. tragasables-69 was blown up by Skeleton Creeper
+[30Mar2025 23:44:54.273] [Server thread/WARN] [tombstone/]: The death event of the player tragasables-69 was canceled by another mod
+[30Mar2025 23:44:54.285] [Server thread/INFO] [tombstone/]: The player tragasables-69 has successfully been saved
+[30Mar2025 23:45:00.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 was blown up by Skeleton Creeper
+[30Mar2025 23:45:00.648] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tragasables-69 with unique ID travelersbackpack.magma_cube_30.03.2025-23.45.00.dat
+[30Mar2025 23:45:02.236] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
