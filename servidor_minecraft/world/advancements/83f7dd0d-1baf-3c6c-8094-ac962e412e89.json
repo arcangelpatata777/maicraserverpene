@@ -9206,33 +9206,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2025-03-31 00:41:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-03-30 23:51:40 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-03-31 00:41:50 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/chainmail_helmet_repairing": {
     "criteria": {
       "has_chainmail_helmet": "2025-03-30 23:39:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-03-31 00:39:14 +0000"
     },
     "done": true
   },
@@ -9242,15 +9218,57 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 23:51:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-03-30 23:51:40 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-03-31 00:00:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-31 00:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-31 00:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-31 00:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-31 00:39:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-03-31 00:41:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-03-31 00:41:50 +0000"
     },
     "done": true
   },
@@ -9266,21 +9284,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
+  "travelersbackpack:recipes/misc/enderman_smithing": {
     "criteria": {
-      "has_oak_trapdoor": "2025-03-31 00:00:42 +0000"
+      "has_enderman": "2025-03-31 01:03:58 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "aether:recipes/incubation/blue_moa_incubation": {
     "criteria": {
-      "wither_skull": "2025-03-31 00:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-03-31 00:22:22 +0000"
+      "has_blue_moa_egg": "2025-03-31 01:05:51 +0000"
     },
     "done": true
   },

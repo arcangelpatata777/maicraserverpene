@@ -920,3 +920,124 @@
 [31Mar2025 00:57:49.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
 [31Mar2025 00:57:50.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
 [31Mar2025 00:57:56.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:58:29.283] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[31Mar2025 00:58:30.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:58:30.534] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:58:31.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:58:31.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:58:35.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:58:36.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 is bleeding. tragasables-69 was slain by Netherite Monstrosity
+[31Mar2025 00:58:36.596] [Server thread/WARN] [tombstone/]: The death event of the player tragasables-69 was canceled by another mod
+[31Mar2025 00:58:36.610] [Server thread/INFO] [tombstone/]: The player tragasables-69 has successfully been saved
+[31Mar2025 00:58:43.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 was slain by Netherite Monstrosity
+[31Mar2025 00:58:43.444] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tragasables-69 with unique ID travelersbackpack.magma_cube_31.03.2025-00.58.43.dat
+[31Mar2025 00:58:45.239] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[31Mar2025 00:58:48.773] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[31Mar2025 00:59:09.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:59:09.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:59:18.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:59:32.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:59:41.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 00:59:59.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:00:03.466] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:00:11.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:00:11.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[31Mar2025 01:00:16.230] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:00:17.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:00:17.918] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:00:32.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:00:35.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:00:35.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:chuckoo_clock_spawn but it was marked as removed already
+[31Mar2025 01:00:50.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:00:56.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:00:59.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:01.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:16.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: piter23474 lost connection: Disconnected
+[31Mar2025 01:01:16.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 left the game
+[31Mar2025 01:01:27.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:28.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:01:28.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:28.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:32.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:38.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:39.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:39.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:39.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:44.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:01:50.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:01:51.505] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[31Mar2025 01:01:51.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arcangel_Patata moved too quickly! -0.4017102537145547,-10.806526110009003,-0.16839145730727978
+[31Mar2025 01:02:48.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:02:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata tried to swim in lava
+[31Mar2025 01:02:58.116] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:02:58.118] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:03:00.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata tried to swim in lava
+[31Mar2025 01:03:00.067] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:03:01.742] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
+[31Mar2025 01:03:04.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: piter23474[/100.112.227.60:59026] logged in with entity id 33650 at (-2094.8860576551774, 70.56643521983503, 2399.025215745787)
+[31Mar2025 01:03:04.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 joined the game
+[31Mar2025 01:03:04.766] [Server thread/INFO] [Jade/]: Syncing config to piter23474 (8ac86e3f-1a54-36f9-be7c-ee5a5858e5de)
+[31Mar2025 01:03:26.317] [Server thread/INFO] [do_a_barrel_roll/]: Client of piter23474 accepted server config.
+[31Mar2025 01:03:34.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata was blown up by Wither
+[31Mar2025 01:03:34.616] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:03:34.629] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:04:14.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata was blown up by Wither
+[31Mar2025 01:04:16.427] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
+[31Mar2025 01:04:44.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata withered away
+[31Mar2025 01:04:44.116] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:04:44.119] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:04:49.598] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:04:55.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata withered away
+[31Mar2025 01:04:55.119] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:04:55.122] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:05:03.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata withered away
+[31Mar2025 01:05:03.121] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:05:03.123] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:05:09.950] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:05:20.099] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:05:25.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:05:37.598] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:05:39.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mochiiiml has made the advancement [Minecraft Comes Alive]
+[31Mar2025 01:05:45.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata has made the advancement [Your First Receptacle]
+[31Mar2025 01:05:54.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:05:59.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:06:15.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata tried to swim in lava
+[31Mar2025 01:06:15.671] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:06:15.673] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:06:17.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata tried to swim in lava
+[31Mar2025 01:06:17.675] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:06:19.177] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
+[31Mar2025 01:06:34.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:06:55.598] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:06:59.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tragasables-69 lost connection: Disconnected
+[31Mar2025 01:06:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 left the game
+[31Mar2025 01:07:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 is bleeding. piter23474 fell from a high place
+[31Mar2025 01:07:00.577] [Server thread/WARN] [tombstone/]: The death event of the player piter23474 was canceled by another mod
+[31Mar2025 01:07:00.580] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:07:09.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tragasables-69[/100.98.37.53:61451] logged in with entity id 35186 at (-2114.744247108475, -52.0, 2376.925399497053)
+[31Mar2025 01:07:09.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tragasables-69 joined the game
+[31Mar2025 01:07:09.410] [Server thread/INFO] [Jade/]: Syncing config to tragasables-69 (83f7dd0d-1baf-3c6c-8094-ac962e412e89)
+[31Mar2025 01:07:11.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 fell from a high place
+[31Mar2025 01:07:11.394] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for piter23474 with unique ID travelersbackpack.iron_31.03.2025-01.07.11.dat
+[31Mar2025 01:07:12.994] [Server thread/INFO] [do_a_barrel_roll/]: Client of piter23474 accepted server config.
+[31Mar2025 01:07:14.474] [Server thread/INFO] [do_a_barrel_roll/]: Client of tragasables-69 accepted server config.
+[31Mar2025 01:07:34.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata tried to swim in lava
+[31Mar2025 01:07:34.415] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:07:34.417] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:07:36.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata tried to swim in lava
+[31Mar2025 01:07:36.420] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:07:37.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:07:37.974] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
+[31Mar2025 01:07:43.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:08:10.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 is bleeding. piter23474 tried to swim in lava to escape Arcangel_Patata
+[31Mar2025 01:08:10.467] [Server thread/WARN] [tombstone/]: The death event of the player piter23474 was canceled by another mod
+[31Mar2025 01:08:10.469] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:08:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 tried to swim in lava to escape Arcangel_Patata
+[31Mar2025 01:08:12.976] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:08:15.170] [Server thread/INFO] [do_a_barrel_roll/]: Client of piter23474 accepted server config.
+[31Mar2025 01:08:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata tried to swim in lava to escape piter23474
+[31Mar2025 01:08:45.072] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:08:45.075] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:08:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata tried to swim in lava
+[31Mar2025 01:08:47.073] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:08:48.727] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
