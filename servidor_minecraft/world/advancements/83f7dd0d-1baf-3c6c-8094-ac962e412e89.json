@@ -9304,6 +9304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/incubation/black_moa_incubation": {
     "criteria": {
       "has_black_moa_egg": "2025-03-31 02:19:43 +0000"
@@ -9328,6 +9334,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/poison_dart_shooter": {
     "criteria": {
       "has_aechor_petal": "2025-03-31 02:20:14 +0000"
@@ -9340,6 +9358,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_dark_marble": {
     "criteria": {
       "has_ingredient": "2025-03-31 02:14:50 +0000"
@@ -9349,6 +9385,12 @@
   "endertrigon:recipes/tools/dragon_horn": {
     "criteria": {
       "has_ender_eye": "2025-03-31 01:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-31 02:44:54 +0000"
     },
     "done": true
   },
@@ -9370,9 +9412,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2025-03-31 02:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-31 02:44:54 +0000"
     },
     "done": true
   },
