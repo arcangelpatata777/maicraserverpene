@@ -1063,3 +1063,21 @@
 [31Mar2025 01:13:02.072] [Server thread/INFO] [do_a_barrel_roll/]: Client of piter23474 accepted server config.
 [31Mar2025 01:15:27.112] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
 [31Mar2025 01:15:39.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 has made the advancement [Diamonds!]
+[31Mar2025 01:19:18.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 is bleeding. piter23474 was blown up by Skeleton Creeper
+[31Mar2025 01:19:18.805] [Server thread/WARN] [tombstone/]: The death event of the player piter23474 was canceled by another mod
+[31Mar2025 01:19:18.813] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:20:06.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 is bleeding. piter23474 was shot by Skeleton
+[31Mar2025 01:20:06.511] [Server thread/WARN] [tombstone/]: The death event of the player piter23474 was canceled by another mod
+[31Mar2025 01:20:06.514] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:22:14.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:23:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 has reached the goal [Death Will Not Be Enough]
+[31Mar2025 01:24:44.798] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:24:45.850] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:24:53.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:26:35.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: piter23474 lost connection: Disconnected
+[31Mar2025 01:26:35.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 left the game
+[31Mar2025 01:26:56.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:27:35.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:28:26.849] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:28:32.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:29:14.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
