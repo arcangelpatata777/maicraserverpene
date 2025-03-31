@@ -3314,7 +3314,8 @@
       "minecraft:piglin": "2025-03-16 23:01:49 +0000",
       "minecraft:enderman": "2025-03-16 02:18:28 +0000",
       "minecraft:vex": "2025-03-16 23:21:49 +0000",
-      "minecraft:zombie": "2025-03-16 01:37:39 +0000"
+      "minecraft:zombie": "2025-03-16 01:37:39 +0000",
+      "minecraft:drowned": "2025-03-31 01:28:13 +0000"
     },
     "done": false
   },
@@ -6667,6 +6668,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-03-27 01:41:56 +0000",
+      "potato": "2025-03-31 01:31:59 +0000",
       "wheat": "2025-03-16 03:51:40 +0000",
       "carrot": "2025-03-16 21:28:06 +0000"
     },
@@ -9293,6 +9295,42 @@
   "aether:recipes/incubation/blue_moa_incubation": {
     "criteria": {
       "has_blue_moa_egg": "2025-03-31 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-31 01:41:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-03-31 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-03-31 01:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-31 01:41:48 +0000"
+    },
+    "done": true
+  },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_ender_eye": "2025-03-31 01:41:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-03-31 01:41:48 +0000"
     },
     "done": true
   },
