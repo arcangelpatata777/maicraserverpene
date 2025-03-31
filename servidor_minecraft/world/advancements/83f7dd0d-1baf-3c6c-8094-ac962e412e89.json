@@ -9298,6 +9298,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-03-31 03:07:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-03-31 01:41:48 +0000"
@@ -9442,6 +9448,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-03-31 03:06:17 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2025-03-31 02:14:50 +0000"
@@ -9451,6 +9463,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-31 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-03-31 03:06:17 +0000"
     },
     "done": true
   },
