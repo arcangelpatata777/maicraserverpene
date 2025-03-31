@@ -15236,3 +15236,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 [31Mar2025 01:08:47.070] [Server thread/DEBUG] [tombstone/]: A new grave of the player Arcangel_Patata was created at position [x:-2101, y:-51, z:2385, dim:minecraft:overworld]
 [31Mar2025 01:08:47.073] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
 [31Mar2025 01:08:48.727] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
+[31Mar2025 01:09:04.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: piter23474 moved wrongly!
+[31Mar2025 01:10:02.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:stalking_chuckoo_clock but it was marked as removed already
+[31Mar2025 01:10:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Arcangel_Patata: Summoned new Wither]
+[31Mar2025 01:10:45.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 is bleeding. piter23474 was shot by a skull from Wither
+[31Mar2025 01:10:45.769] [Server thread/WARN] [tombstone/]: The death event of the player piter23474 was canceled by another mod
+[31Mar2025 01:10:45.774] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:10:46.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata is bleeding. Arcangel_Patata was shot by a skull from Wither
+[31Mar2025 01:10:46.769] [Server thread/WARN] [tombstone/]: The death event of the player Arcangel_Patata was canceled by another mod
+[31Mar2025 01:10:46.775] [Server thread/INFO] [tombstone/]: The player Arcangel_Patata has successfully been saved
+[31Mar2025 01:10:52.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arcangel_Patata was shot by a skull from Wither
+[31Mar2025 01:10:52.725] [Server thread/DEBUG] [tombstone/]: A new grave of the player Arcangel_Patata was created at position [x:-2100, y:-51, z:2360, dim:minecraft:overworld]
+[31Mar2025 01:10:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 withered away
+[31Mar2025 01:10:57.776] [Server thread/DEBUG] [tombstone/]: A new grave of the player piter23474 was created at position [x:-2113, y:-51, z:2370, dim:minecraft:overworld]
+[31Mar2025 01:10:57.778] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:10:59.387] [Server thread/INFO] [do_a_barrel_roll/]: Client of piter23474 accepted server config.
+[31Mar2025 01:11:30.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mochiiiml) moved wrongly! 0.30851777257157664
+[31Mar2025 01:12:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 is bleeding. piter23474 withered away whilst fighting Wither
+[31Mar2025 01:12:53.961] [Server thread/WARN] [tombstone/]: The death event of the player piter23474 was canceled by another mod
+[31Mar2025 01:12:53.962] [Server thread/INFO] [tombstone/]: The player piter23474 has successfully been saved
+[31Mar2025 01:13:00.049] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_cuckoo_clock:trigger but it was marked as removed already
+[31Mar2025 01:13:00.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 withered away
+[31Mar2025 01:13:00.622] [Server thread/DEBUG] [tombstone/]: A new grave of the player piter23474 was created at position [x:-2097, y:-51, z:2363, dim:minecraft:overworld]
+[31Mar2025 01:13:02.072] [Server thread/INFO] [do_a_barrel_roll/]: Client of piter23474 accepted server config.
+[31Mar2025 01:13:03.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 01:13:03.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 01:15:27.112] [Server thread/INFO] [do_a_barrel_roll/]: Client of Arcangel_Patata accepted server config.
+[31Mar2025 01:15:39.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piter23474 has made the advancement [Diamonds!]
+[31Mar2025 01:18:03.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 01:18:03.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
