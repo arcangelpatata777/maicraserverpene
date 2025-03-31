@@ -9229,5 +9229,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-03-31 00:00:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
